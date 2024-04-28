@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Click it]([http://github.com](https://rohanprabhakar.webflow.io/))
+* 🖥️  See my portfolio at [Click it](https://rohanprabhakar.webflow.io/)
 * ✉️  You can contact me at [myrohanprabhakar@gmail.com](mailto:myrohanprabhakar@gmail.com)
 * 🧠  I'm learning Backend Development
 
