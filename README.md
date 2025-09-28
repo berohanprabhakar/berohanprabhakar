@@ -46,7 +46,6 @@ I am a **Software Developer**, currently working as Backend Developer, I am expa
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ###### Deployment & Cloud Services:
 ![Vercel](https://img.shields.io/badge/vercel-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
