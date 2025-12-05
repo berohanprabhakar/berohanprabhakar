@@ -8,7 +8,7 @@
 
 I am a **Software Developer**, currently working as Backend Developer, I am expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
-  - *Angular*
+  - *React*
   - *TypeScript*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
